@@ -1,7 +1,5 @@
 # PFC_MINI-PROJECT_NAMAN_10864
 
-# PFC_MINI-PROJECT_NAMAN_10864
-
 🚆 Project Title
 Railway Ticket Booking System
 
@@ -38,4 +36,4 @@ This project is built using a 1D array, where each index represents a seat in th
 
 
 
-![image alt](https://github.com/Namann3656/PFC_MINI-PROJECT_NAMAN_10864/blob/c73e7de75ee8e7196b0be2a604ffa7df3b15d9cb/PFC_MINI-PROJECT/Screenshot%202026-01-05%20160818.png)
+![image alt](https://github.com/Namann3656/PFC_MINI-PROJECT_NAMAN_10864/blob/e2cbf5b231f751fb1ce63ea64ef633630716c358/Screenshot%202026-01-05%20160818.png)
